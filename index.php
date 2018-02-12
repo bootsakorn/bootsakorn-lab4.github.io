@@ -132,10 +132,10 @@
 					<p class="ldl">ไขมันแอลดีแอล</p>
 			  		<input type="number" class="ldl" name="ldl-3" value="">
 			  		<br>
-			  		<p class="hdl">ไขมันเอชดีแอล</p>
+			  		<p class="hdl">ไขมันเอชดีแอล&#160;</p>
 			  		<input type="number" class="hdl" name="hdl-3" value="">
 			  		<br>
-			  		<p class="tri">ไตรกลีเซอไรด์</p>
+			  		<p class="tri">ไตรกลีเซอไรด์&#160;&#160;</p>
 			  		<input type="number" class="tri" name="tri-3" value="">
 			  		<br>
 			  		<input class="btn-sub3" type="submit" value="คำนวณ">

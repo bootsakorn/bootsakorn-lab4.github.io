@@ -135,7 +135,7 @@
 		}
 
 	?>
-	<center><a href="index.html"><button>ย้อนกลับ</button></a></center>
+	<center><a href="index.php"><button>ย้อนกลับ</button></a></center>
 	</div>
 </body>
 </html>
